@@ -1,0 +1,6 @@
+title: "Bookmark utils"
+description: "My personal utility bookmarks, as a feed."
+exclude:
+  - "Gemfile*"
+  - "LICENSE"
+url: "http://mhulse.github.io/bookmark-utils/"

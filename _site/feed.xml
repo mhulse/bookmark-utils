@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+>
+	
+	<channel>
+		
+		<title>Bookmark utils - Posts</title>
+		
+		<link>http://mhulse.github.io/bookmark-utils/feed.xml</link>
+		
+		<atom:link href="http://mhulse.github.io/bookmark-utils/feed.xml" rel="self" type="application/rss+xml" />
+		
+		<description>My personal utility bookmarks, as a feed.</description>
+		
+		<language>en-us</language>
+		
+		
+			
+			<item>
+				
+				<title>Amazon.com: Manage Your Content and Devices</title>
+				
+				<description></description>
+				
+				<link>https://www.amazon.com/mn/dcw/myx.html#/home/content/pdocs/dateDsc/</link>
+				
+				<guid isPermaLink="true">https://www.amazon.com/mn/dcw/myx.html#/home/content/pdocs/dateDsc/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Search Brew</title>
+				
+				<description></description>
+				
+				<link>http://searchbrew.com/</link>
+				
+				<guid isPermaLink="true">http://searchbrew.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Font Awesome Cheatsheet</title>
+				
+				<description></description>
+				
+				<link>http://fortawesome.github.io/Font-Awesome/cheatsheet/</link>
+				
+				<guid isPermaLink="true">http://fortawesome.github.io/Font-Awesome/cheatsheet/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>jQuery Coding Standards and Best Practices</title>
+				
+				<description></description>
+				
+				<link>http://lab.abhinayrathore.com/jquery-standards/</link>
+				
+				<guid isPermaLink="true">http://lab.abhinayrathore.com/jquery-standards/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>|| Dummy Text Generator | Lorem ipsum for webdesigners ||</title>
+				
+				<description></description>
+				
+				<link>http://www.blindtextgenerator.com/lorem-ipsum</link>
+				
+				<guid isPermaLink="true">http://www.blindtextgenerator.com/lorem-ipsum</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Ipsum</title>
+				
+				<description></description>
+				
+				<link>http://www.lipsum.com/feed/html</link>
+				
+				<guid isPermaLink="true">http://www.lipsum.com/feed/html</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>CompressorRater</title>
+				
+				<description></description>
+				
+				<link>http://compressorrater.thruhere.net/</link>
+				
+				<guid isPermaLink="true">http://compressorrater.thruhere.net/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Refresh-SF - Online JavaScript and CSS Compressor</title>
+				
+				<description></description>
+				
+				<link>http://gpbmike.github.io/refresh-sf/</link>
+				
+				<guid isPermaLink="true">http://gpbmike.github.io/refresh-sf/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Online YUI Compressor</title>
+				
+				<description></description>
+				
+				<link>http://www.refresh-sf.com/yui/</link>
+				
+				<guid isPermaLink="true">http://www.refresh-sf.com/yui/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Online javascript beautifier</title>
+				
+				<description></description>
+				
+				<link>http://jsbeautifier.org/</link>
+				
+				<guid isPermaLink="true">http://jsbeautifier.org/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>CSSTidy Online. A FREE Tool to clean, optimize and compress CSS.</title>
+				
+				<description></description>
+				
+				<link>http://csstidyonline.com/</link>
+				
+				<guid isPermaLink="true">http://csstidyonline.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>CSS Minifier</title>
+				
+				<description></description>
+				
+				<link>http://cssminifier.com/</link>
+				
+				<guid isPermaLink="true">http://cssminifier.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>clickTAG test</title>
+				
+				<description></description>
+				
+				<link>http://www.bannerflow.com/clicktest/</link>
+				
+				<guid isPermaLink="true">http://www.bannerflow.com/clicktest/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>SwfVersion.com</title>
+				
+				<description></description>
+				
+				<link>http://swfversion.com/</link>
+				
+				<guid isPermaLink="true">http://swfversion.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>The Email Address Obfuscator Page</title>
+				
+				<description></description>
+				
+				<link>http://www.albionresearch.com/misc/obfuscator.php</link>
+				
+				<guid isPermaLink="true">http://www.albionresearch.com/misc/obfuscator.php</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Obfuscate Email Address on Web Page</title>
+				
+				<description></description>
+				
+				<link>http://www.fingerlakesbmw.org/main/flobfuscate.php</link>
+				
+				<guid isPermaLink="true">http://www.fingerlakesbmw.org/main/flobfuscate.php</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Backpager - Online Markdown Editor</title>
+				
+				<description></description>
+				
+				<link>http://backpager.amasan.co.uk/</link>
+				
+				<guid isPermaLink="true">http://backpager.amasan.co.uk/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Strong Password Generator</title>
+				
+				<description></description>
+				
+				<link>http://strongpasswordgenerator.com/</link>
+				
+				<guid isPermaLink="true">http://strongpasswordgenerator.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>URL Decoder/Encoder</title>
+				
+				<description></description>
+				
+				<link>http://meyerweb.com/eric/tools/dencoder/</link>
+				
+				<guid isPermaLink="true">http://meyerweb.com/eric/tools/dencoder/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Andys anagram solver</title>
+				
+				<description></description>
+				
+				<link>http://www.ssynth.co.uk/~gay/anagram.html</link>
+				
+				<guid isPermaLink="true">http://www.ssynth.co.uk/~gay/anagram.html</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>PXtoEM.com: PX to EM conversion made simple.</title>
+				
+				<description></description>
+				
+				<link>http://pxtoem.com/</link>
+				
+				<guid isPermaLink="true">http://pxtoem.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>RGB to Hex, HSL, HSV, HSB and JSON. Color schemes, color keywords</title>
+				
+				<description></description>
+				
+				<link>http://rgb.to/</link>
+				
+				<guid isPermaLink="true">http://rgb.to/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Devoth’s HEX 2 RGBA Color Calculator</title>
+				
+				<description></description>
+				
+				<link>http://hex2rgba.devoth.com/</link>
+				
+				<guid isPermaLink="true">http://hex2rgba.devoth.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>SEARCH COLOURlovers’ palettes</title>
+				
+				<description></description>
+				
+				<link>http://www.colourlovers.com/palettes/search</link>
+				
+				<guid isPermaLink="true">http://www.colourlovers.com/palettes/search</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>HSL Color Picker - by Brandon Mathis</title>
+				
+				<description></description>
+				
+				<link>http://hslpicker.com/</link>
+				
+				<guid isPermaLink="true">http://hslpicker.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>CSS Font Shorthand Property Cheat Sheet | Impressive Webs</title>
+				
+				<description></description>
+				
+				<link>http://www.impressivewebs.com/css-font-shorthand-property-cheat-sheet/</link>
+				
+				<guid isPermaLink="true">http://www.impressivewebs.com/css-font-shorthand-property-cheat-sheet/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>The Online Lint</title>
+				
+				<description></description>
+				
+				<link>http://www.javascriptlint.com/online_lint.php</link>
+				
+				<guid isPermaLink="true">http://www.javascriptlint.com/online_lint.php</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Text Wrapper Tool | Affilorama</title>
+				
+				<description></description>
+				
+				<link>http://www.affilorama.com/free-tools/text-wrapper-tool</link>
+				
+				<guid isPermaLink="true">http://www.affilorama.com/free-tools/text-wrapper-tool</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>JSHint, A JavaScript Code Quality Tool</title>
+				
+				<description></description>
+				
+				<link>http://jshint.com/</link>
+				
+				<guid isPermaLink="true">http://jshint.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Python Regex Tool</title>
+				
+				<description></description>
+				
+				<link>http://www.pythonregex.com/</link>
+				
+				<guid isPermaLink="true">http://www.pythonregex.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Entity Conversion Calculator</title>
+				
+				<description></description>
+				
+				<link>http://www.evotech.net/articles/testjsentities.html</link>
+				
+				<guid isPermaLink="true">http://www.evotech.net/articles/testjsentities.html</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Free Online JavaScript Escape Tool - FreeFormatter.com</title>
+				
+				<description></description>
+				
+				<link>http://www.freeformatter.com/javascript-escape.html</link>
+				
+				<guid isPermaLink="true">http://www.freeformatter.com/javascript-escape.html</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Calculators &amp; converters for Time, Dates, Sunrise &amp; Sunset , Distance and more</title>
+				
+				<description></description>
+				
+				<link>http://www.timeanddate.com/date/</link>
+				
+				<guid isPermaLink="true">http://www.timeanddate.com/date/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Regexper</title>
+				
+				<description></description>
+				
+				<link>http://www.regexper.com/</link>
+				
+				<guid isPermaLink="true">http://www.regexper.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Regulex：JavaScript Regular Expression Visualizer.</title>
+				
+				<description></description>
+				
+				<link>http://jex.im/regulex/#!embed=false&amp;flags=&amp;re=(a%7Cb%5Cd%2B)*c</link>
+				
+				<guid isPermaLink="true">http://jex.im/regulex/#!embed=false&amp;flags=&amp;re=(a%7Cb%5Cd%2B)*c</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Remove Duplicate Lines</title>
+				
+				<description></description>
+				
+				<link>http://textmechanic.com/Remove-Duplicate-Lines.html</link>
+				
+				<guid isPermaLink="true">http://textmechanic.com/Remove-Duplicate-Lines.html</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Special Characters for HTML, CSS and JS</title>
+				
+				<description></description>
+				
+				<link>http://ikreator.com/special-characters/</link>
+				
+				<guid isPermaLink="true">http://ikreator.com/special-characters/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Entity Conversion Calculator</title>
+				
+				<description></description>
+				
+				<link>http://www.evotech.net/articles/testjsentities.html</link>
+				
+				<guid isPermaLink="true">http://www.evotech.net/articles/testjsentities.html</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Unicode Character Search</title>
+				
+				<description></description>
+				
+				<link>http://www.fileformat.info/info/unicode/char/search.htm</link>
+				
+				<guid isPermaLink="true">http://www.fileformat.info/info/unicode/char/search.htm</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Rubular: a Ruby regular expression editor and tester</title>
+				
+				<description></description>
+				
+				<link>http://rubular.com/</link>
+				
+				<guid isPermaLink="true">http://rubular.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Free Online YouTube Downloader: Download YouTube Videos, Facebook and many others!</title>
+				
+				<description></description>
+				
+				<link>http://en.savefrom.net/#url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtwABY9ab8B4</link>
+				
+				<guid isPermaLink="true">http://en.savefrom.net/#url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtwABY9ab8B4</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>SassMeister | The Sass Playground!</title>
+				
+				<description></description>
+				
+				<link>http://sassmeister.com/</link>
+				
+				<guid isPermaLink="true">http://sassmeister.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Cron Sandbox</title>
+				
+				<description></description>
+				
+				<link>http://www.dataphyx.com/cronsandbox/cronsandboxgui.php</link>
+				
+				<guid isPermaLink="true">http://www.dataphyx.com/cronsandbox/cronsandboxgui.php</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Gridzzly.com - Make your own grid paper.</title>
+				
+				<description></description>
+				
+				<link>http://gridzzly.com/</link>
+				
+				<guid isPermaLink="true">http://gridzzly.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Compressor.io - optimize and compress your images and photos</title>
+				
+				<description></description>
+				
+				<link>http://compressor.io/</link>
+				
+				<guid isPermaLink="true">http://compressor.io/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>A Combined List of over 2,500 Japanese Emoticons and Kaomoji</title>
+				
+				<description></description>
+				
+				<link>http://japaneseemoticons.net/all-japanese-emoticons/</link>
+				
+				<guid isPermaLink="true">http://japaneseemoticons.net/all-japanese-emoticons/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>Icon search engine and market place | Iconfinder</title>
+				
+				<description></description>
+				
+				<link>https://www.iconfinder.com/</link>
+				
+				<guid isPermaLink="true">https://www.iconfinder.com/</guid>
+				
+			</item>
+			
+		
+			
+			<item>
+				
+				<title>uiGradients - Beautiful coloured gradients</title>
+				
+				<description></description>
+				
+				<link>http://uigradients.com/</link>
+				
+				<guid isPermaLink="true">http://uigradients.com/</guid>
+				
+			</item>
+			
+		
+		
+	</channel>
+	
+</rss>

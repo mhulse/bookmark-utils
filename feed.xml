@@ -1,0 +1,41 @@
+---
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+>
+	
+	<channel>
+		
+		<title>{{ site.title | xml_escape }} - Posts</title>
+		
+		<link>{{ site.url }}feed.xml</link>
+		
+		<atom:link href="{{ site.url }}feed.xml" rel="self" type="application/rss+xml" />
+		
+		{% if site.description %}<description>{{ site.description | xml_escape }}</description>{% endif %}
+		
+		<language>en-us</language>
+		
+		{% for link in site.data.links %}
+			
+			<item>
+				
+				<title>{{ link.title | xml_escape }}</title>
+				
+				<description>{% if description != '' %}{{ link.desc | xml_escape }}{% endif %}</description>
+				
+				<link>{{ link.uri | xml_escape  }}</link>
+				
+				<guid isPermaLink="true">{{ link.uri | xml_escape }}</guid>
+				
+			</item>
+			
+		{% endfor %}
+		
+	</channel>
+	
+</rss>
