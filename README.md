@@ -32,17 +32,3 @@ $ bundle exec jekyll serve
 ```
 
 View your locally-hosted site at <http://localhost:4000>.
-
-## Clean Firefox bookmark HTML export regex
-
-Find:
-
-```regex
-<DT><A href="(.*)">(.*)</a>
-```
-
-Replace:
-
-```regex
-- title: "$2"\n  desc:\n  uri: "$1"
-```
