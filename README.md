@@ -6,14 +6,9 @@
 
 <p align="center">
 	<a href="http://mhulse.github.io/bookmark-util/feed.xml">
-		<img width="400" height="100" src="https://cloud.githubusercontent.com/assets/218624/6322833/282bc3c4-bad3-11e4-97b3-f7b7327d5249.png">
+		<img src="https://cloud.githubusercontent.com/assets/218624/6322833/282bc3c4-bad3-11e4-97b3-f7b7327d5249.png">
 	</a>
 </p>
-
-## Bookmarklets
-
-<a href="javascript:void(window.open('view-source:'+window.location.href));">Tab source</a>
-<a href="javascript:location.href='http://fuckyeahmarkdown.com/go/?read=1&preview=0&showframe=0&u='+encodeURIComponent(document.location.href);">Readability→Markdown (raw)</a>
 
 ## Local development
 
