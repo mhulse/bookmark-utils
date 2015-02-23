@@ -3,4 +3,5 @@ description: "My personal utility bookmarks, as a feed."
 exclude:
   - "Gemfile*"
   - "LICENSE"
+  - "README.md"
 url: "http://mhulse.github.io/bookmark-utils/"
